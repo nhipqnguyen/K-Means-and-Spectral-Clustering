@@ -1,7 +1,6 @@
 # Clustering Algorithms
 ## K-Means and Spectral clustering
 ### - Nhi Nguyen -
-The goal of this project is to get more practice implementing algorithms, as well as translating pseudocode algorithms to Python.
 
 Unsupervised machine learning is one among three types of machine learning (the other two are supervised and reinforcement learning). In unsupervised learning, the model tries to learn from unlabeled datasets. In other words, the model tries to identify hidden patterns and structures in the data without a known target variable. Due to its rather ambiguous purpose, this type of machine learning involves lots of data groupings, which is why it is heavily built on clustering algorithms.
 
